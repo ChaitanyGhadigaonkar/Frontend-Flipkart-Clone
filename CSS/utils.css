@@ -1,0 +1,32 @@
+
+
+
+.max-width-1{
+    width: 60vw;
+}
+.max-width-2{
+    width: 85vw;
+}
+.max-width-3{
+    width: 65vw;
+}
+.m-auto-rl{
+    margin:10px auto;
+}
+/* .m-auto-tb{
+    margin: auto 0px;
+} */
+.height-h1{
+    height: 280px;
+}
+.over-hid{
+    overflow: hidden;
+}
+
+.nav-height{
+    height: 400px;
+}
+  /* .bottom-len{
+  position: relative;
+    bottom: 47%; 
+}*/

@@ -1,0 +1,152 @@
+@media screen and (max-width: 1833px) {
+    .max-width-1 {
+        width: 65vw;
+    }
+}
+
+@media screen and (max-width: 1663px) {
+    .max-width-1 {
+        width: 100vw;
+    }
+
+    .max-width-2 {
+        width: 100vw;
+    }
+
+    .max-width-3 {
+        width: 100vw;
+    }
+
+    #slide-svg-2 {
+        right: 2px;
+    }
+
+    #offer-svg1 {
+        right: 2px;
+    }
+
+    #offer1-svg1 {
+        right: 2px;
+    }
+
+    #offer-svg2 {
+        left: 2px
+    }
+
+    #offer1-svg2 {
+        left: 2px;
+    }
+
+    .prod-container {
+        width: 95vw;
+    }
+}
+
+@media screen and (max-width: 1663px) {
+
+    .item-box {
+        justify-content: unset;
+    }
+
+    .item-box-1 {
+        justify-content: unset;
+
+    }
+
+    #foot-c-6 {
+        display: none;
+    }
+
+    .searchBar input {
+        width: 301px;
+    }
+}
+
+/* hamburger at 769px */
+
+@media screen and (max-width: 826px) {
+    .hamburger {
+        display: flex !important;
+        position: absolute;
+        left: 10px;
+        top: 10px;
+    }
+
+    .nav {
+
+        flex-direction: column;
+
+    }
+
+    .dis-hid {
+        display: none;
+    }
+
+    /* #slide-svg-1,#slide-svg-2{
+        top: 635px;
+    } */
+
+}
+
+@media screen and (max-width: 642px) {
+    .products {
+        /* height: 110px; */
+        overflow-x: auto;
+
+    }
+
+    .prod-img {
+
+        margin: 0px 10px;
+    }
+
+    .products::-webkit-scrollbar {
+        /* height: 0px; */
+        width: 0px;
+
+    }
+
+    .foot-c {
+
+        font-size: 8px;
+    }
+
+    .off-up-head p {
+        font-size: 16px
+    }
+
+    .slide img {
+        height: 230px;
+    }
+
+    .svg {
+
+        margin-top: -152px;
+    }
+
+    .m-auto-rl {
+        margin: 3px auto;
+    }
+    .foot-c {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    #slide-svg-2{
+        height: 70px;
+        width: 26px;
+        margin-right: 2px;
+    }
+    #slide-svg-1{
+        height: 70px;
+        width: 26px;
+    }
+    .max-width-2 {
+        width: 99vw;
+    }
+}
+
+/*  */
