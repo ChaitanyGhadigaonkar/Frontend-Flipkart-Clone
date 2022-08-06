@@ -147,6 +147,17 @@
     .max-width-2 {
         width: 99vw;
     }
+    .off-up-head p {
+        
+        padding: 0px 5px;
+    }
+    .off-down {
+        padding: 0px 5px;
+    }
+    .item {
+        /* border: 2px solid black; */
+        min-width: 123px;
+    }
 }
 
 /*  */
